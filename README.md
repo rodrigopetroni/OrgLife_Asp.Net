@@ -1,7 +1,7 @@
 #  🥼 **Orglife - 2TDSR**
 
 ## 💻 Descrição do Projeto
-Projeto feito para a Global Solution, com a proposta de simular uma clínica de órgãos. Utilizamos o framework ASP.NET MVC 5, utilizamos Bootstrap para a realização do front-end e utilizamos o banco de dados MySQL.
+Projeto feito para a Global Solution, com a proposta de realizar o site da nossa clínica de órgãos. Utilizamos o framework ASP.NET MVC 5, utilizamos Bootstrap para a realização do front-end e utilizamos o banco de dados MySQL.
 
 ## ⚙️ Endpoints:
 Segue a lista com os endpoints cadastrados no sistema:
