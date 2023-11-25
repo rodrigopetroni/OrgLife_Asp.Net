@@ -51,7 +51,8 @@ Segue abaixo nome dos integrantes que auxiliaram na realização do projeto:
 * Kauan Altino Gianesini Grilo / RM: 94700
 
 ## 🎬 Vídeo
-Link para o vídeo referente ao pitch do projeto:
+Link para o vídeo referente ao pitch do projeto: 
+* https://youtu.be/arG7gNc4fGY
 
 ### Vídeo Pitch
 *
