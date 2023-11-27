@@ -54,5 +54,3 @@ Segue abaixo nome dos integrantes que auxiliaram na realização do projeto:
 Link para o vídeo referente ao pitch do projeto: 
 * https://youtu.be/arG7gNc4fGY
 
-### Vídeo Pitch
-*
